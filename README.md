@@ -1,6 +1,8 @@
 # headspintest
 The program for Problem numer 1 is named as date.py
+
 The program for Problem number 2 is named as seats.py
+
 The program for Problem number 3 is named as armstrong.py
 
 datevalidation.py :The program aks the user for a date in(dd/mm/yy) format, the program requires current date to valuate if the date for valuation is future date or not.The program will give the result thet if the given date is valid or not.[The current  date is required because the question specified that future dates should not be counted as valid ,not to use any inbuilt fuction] The program evaluates the given date and look if dates are real or not,checkm for leap year and give the result wether the given date is valid or not.
