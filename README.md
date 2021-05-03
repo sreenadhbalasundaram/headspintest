@@ -1,5 +1,5 @@
 # headspintest
-The program for Problem numer 1 is named as date.py
+The program for Problem number 1 is named as date.py
 
 The program for Problem number 2 is named as seats.py
 
