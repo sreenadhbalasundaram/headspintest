@@ -25,7 +25,7 @@ else:
     elif(mm==4 or mm==6 or mm==11):
         mx=30
     #checking for leap year
-    elif(yy%4==0 and yy%100!=0 or yy%100==0):
+    elif(yy%4==0 and (yy%100!=0 or yy%400==0)):
         mx=29
     else:
         mx=28
